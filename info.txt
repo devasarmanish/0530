@@ -1,4 +1,8 @@
 hi
 hello
 hello2
-hello3
+
+git remote add origin master https://github.com/devasarmanish/0527.git
+git remote add upstream https://github.com/devasarmanish/0530.git
+git push -u origin master
+git push -u upstream master
